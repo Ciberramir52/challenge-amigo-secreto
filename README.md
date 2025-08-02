@@ -57,9 +57,10 @@ This is a beginner-friendly example Secret Friend Challenge that demonstrates ho
 ## How to Sort (Pick) a Friend
 
 1. **Click the `Sortear Amigo` button.**
-2. A legend with the name of the chosen friend will appear above the button.
-3. This “Sorted Friend” legend temporarily replaces the visible friends list, but **the friends themselves are NOT removed from memory.**
-4. If you add a new friend after sorting, the legend will disappear and the complete list will be shown again.
+2. If the there is no friends added yet, an alert will pop up asking you to enter a friend.
+3. A legend with the name of the chosen friend will appear above the button.
+4. This “Sorted Friend” legend temporarily replaces the visible friends list, but **the friends themselves are NOT removed from memory.**
+5. If you add a new friend after sorting, the legend will disappear and the complete list will be shown again.
 
 ---
 
